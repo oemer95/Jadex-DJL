@@ -44,8 +44,9 @@ This program requires a proper Jade (https://jade.tilab.com/) configuration (v4.
 2. Use the following program arguments in the *run configuration* to define which of the configured agentss will start (e.g. Area Agent + Vehicle Agent 1, 2, 3 for running the 3 Agent configuration):
 
 Program arguments:
+```bash
 `-gui Agent0:Agent0;Agent1:Agent1;Agent2:Agent2;Agent3:Agent3;`
-
+```
 use the `debug.java` to define specific parameters and load the data sets.
 
 
