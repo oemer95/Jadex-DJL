@@ -14,10 +14,17 @@ Our results are shown into the following quality measures.
 
 
 
+[**DAI 2021 submission: Negotiation in ride-hailing between cooperating BDI agents**]
+This program requires a proper Jade (https://jade.tilab.com/) configuration (v4.5.0). Consider the following steps: 
 
-# DAI 2021 submission: Negotiation in ride-hailing between cooperating BDI agents
+- `src/`: source folder 
+  - `Agent0.java`: Area agent distributing trip reguests to vehicle agents;
+  - `Agent1.java`: Vehicle Agent 1;
+  - 
 
-This program requires a proper Jade (https://jade.tilab.com/) configuration (v4.5.0). Do the following steps: 
+
+
+# How to run
 
 1. Add the jade.jar into the  Java project libraries
 
@@ -26,4 +33,27 @@ This program requires a proper Jade (https://jade.tilab.com/) configuration (v4.
 Program arguments:
 -gui Agent0:Agent0;Agent1:Agent1;Agent2:Agent2;Agent3:Agent3;
 
-use the debug.java to define specific parameters and load the data sets
+use the `debug.java` to define specific parameters and load the data sets.
+
+
+
+
+
+
+
+
+
+# Dataset information
+
+The data samples were created by modifying the "Call A Bike" data sets from Deutsche Bahn (DB).
+https://data.deutschebahn.com/dataset/data-call-a-bike.html 
+
+
+
+
+
+
+
+
+
+
