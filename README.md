@@ -55,6 +55,14 @@ Program arguments:
 Use the `debug.java` to define specific parameters and load the data sets.
 
 
+  - `Integer globalNegotiation = 1;`: enables negotiation if `1` and no negotiation with `0`;
+	- `Double batteryWeight = (100.0/3.0);`: Utility component weight of `1/3`. This can be modified but the sum of `jobWeight`, `distanceWeight` and `batteryWeight` must be 100 i.e. 100%;
+	- `Double distanceWeight = (100.0/3.0);`: Utility component weight of `1/3`;
+	- `Double jobWeight = (100.0/3.0);`: Utility component weight of `1/3`;
+	- `Double speed = 3.6;`: Vehicle Agent speed can be modified, we used `3.6 km/h`, which is equivalent to the walking speed;
+	- `Integer theta = 4;`: waiting time of customers (has to be changed also in `Belief.java`);
+	- `Integer epsilon = 3;`: buffer time;
+
 
 # Dataset information
 
