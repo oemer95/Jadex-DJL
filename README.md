@@ -19,22 +19,27 @@ This program requires a proper Jade (https://jade.tilab.com/) configuration (v4.
 
 - `src/`: source folder 
   - `Agent0.java`: Area agent distributing trip reguests to vehicle agents;
-  - `Agent1.java`: Vehicle Agent 1;
-  - `AgentStatus.java`:
-  - `Belief.java`:
-  - `Debug.java`:
-  - `Desire.java`:
-  - `Environment.java`:
-  - `Event.java`:
-  - `FilteredTask.java`:
-  - `Intention.java`:
-  - `Job.java`:
-  - `Logger.java`:
-  - `MapArea.java`:
-  - `Message.java`:
-  - `Plan.java`:
-  - `Scheduler.java`:
-  - `TripRequest.java`:
+  - `Agent1.java`: Vehicle Agent 1 (other configured Agents are also Vehicle Agents);
+  - `AgentStatus.java`: Status of the Vehicle Agent
+  - `Belief.java`: Vehicle Agent Beliefs
+  - `Debug.java`: Debug File to change parameters for each single agent carrying out experiments
+  - `Desire.java`: Vehicle Agent Desires
+  - `Environment.java`: Environment of Vehicle Agents
+  - `Event.java`: Events occuring during Agent processing
+  - `FilteredTask.java`: Filtered Tasks the Agent wants to process
+  - `Intention.java`: Vehicle Agent Intentions
+  - `Job.java`: Job to be processed by the Vehicle Agents
+  - `Logger.java`: Logger for Simulated Event Trace
+  - `MapArea.java`: Map Utilities
+  - `Message.java`: ACL Message for Agent communications
+  - `Plan.java`: Vehicle Agent Plans
+  - `Scheduler.java`: Dummy Schedule for Trip Requests
+  - `TripRequest.java`: Customer Trip Request 
+
+
+# Vehicle Agent cognitive BDI architecture 
+
+![BDI architecture](TrikeAgent_abstract.pdf)
 
 
 # How to run
@@ -45,9 +50,9 @@ This program requires a proper Jade (https://jade.tilab.com/) configuration (v4.
 
 Program arguments:
 ```bash
-`-gui Agent0:Agent0;Agent1:Agent1;Agent2:Agent2;Agent3:Agent3;`
+-gui Agent0:Agent0;Agent1:Agent1;Agent2:Agent2;Agent3:Agent3;
 ```
-use the `debug.java` to define specific parameters and load the data sets.
+Use the `debug.java` to define specific parameters and load the data sets.
 
 
 
