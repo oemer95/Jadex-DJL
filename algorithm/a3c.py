@@ -3,5 +3,5 @@ import numpy as np
 import matplotlib as plt
 
 
-def __init__(self):
+def __init__(self, List):
   
