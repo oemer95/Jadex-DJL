@@ -33,6 +33,16 @@ https://data.deutschebahn.com/dataset/data-call-a-bike.html
 
 
 
+#Running DRl and RL 
+
+To configure different running scenarios, use the 
+
+
+
+
+
+
+
 
 
 
