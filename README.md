@@ -2,11 +2,8 @@
 Integration of Reinforcement Learning into the bdi architecture
 
 This is the repo for our project integrating DRL into the cognitive bdi agent architecture.
-
 We use Jadex for the cognitve agent architecture and consider trip requests from a bike sharing company. 
-
 We compare the learning integration approach with the informed utility based approach. 
-
 Our results are shown into the following quality measures.
 
 
@@ -33,9 +30,14 @@ https://data.deutschebahn.com/dataset/data-call-a-bike.html
 
 
 
-#Running DRl and RL 
+#Running DRL and RL 
 
-To configure different running scenarios, use the Run.py  
+There are two configurations for the learning process, Q-Leearning as an RL method and Deep-Q-Learning as a DRL method. 
+To configure different running scenarios, use the corresponding run.py file and add it to the Jadex platform.
+
+
+
+To cite this work, please refer to the corresponding Paper on arxiv. 
 
 
 
