@@ -31,6 +31,8 @@ https://data.deutschebahn.com/dataset/data-call-a-bike.html
 
 
 
+
+
 #Running DRL and RL 
 
 There are two configurations for the learning process, Q-Leearning as an RL method and Deep-Q-Learning as a DRL method. 
