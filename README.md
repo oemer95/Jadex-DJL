@@ -6,7 +6,7 @@ We use Jadex for the cognitve agent architecture and consider trip requests from
 We compare the learning integration approach with the informed utility based approach. 
 Our results are shown into the following quality measures. Furthermore, 
 
-JadeX
+JadeX - How to Start
 
 - `src/`: source folder 
   - `Agent0.java`: Area agent distributing trip reguests to vehicle agents;
