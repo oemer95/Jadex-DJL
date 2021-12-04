@@ -19,5 +19,5 @@ class RideHailSim:
       
     derf __init__(self, global_flag="global", time_interval=10, probability=1.0/28, real_orders=""):
 
-
+#New functions
 
