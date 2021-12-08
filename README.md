@@ -29,10 +29,6 @@ The data samples were created by modifying the "Call A Bike" data sets from Deut
 https://data.deutschebahn.com/dataset/data-call-a-bike.html 
 
 
-
-
-
-
 #Running DRL and RL 
 
 There are two configurations for the learning process, Q-Leearning as an RL method and Deep-Q-Learning as a DRL method. 
@@ -41,7 +37,9 @@ To configure different running scenarios, use the corresponding run.py file and 
 
 
 To cite this work, please refer to the corresponding Paper on arxiv. 
-Arxiv Link
+Arxiv Link:
+
+
 
 
 
