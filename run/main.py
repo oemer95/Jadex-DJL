@@ -3,4 +3,5 @@ import pytorch as pt
 
 
 
-def init
+def __init__
+
