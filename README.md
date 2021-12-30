@@ -39,9 +39,10 @@ To configure different running scenarios, use the corresponding run.py file and 
 To cite this work, please refer to the corresponding Paper on arxiv. 
 Arxiv Link:
 
-Version listed below: 
+Versions of the work are listed below: 
 
 Preprint version available: 
+
 
 
 
