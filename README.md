@@ -1,5 +1,5 @@
-# rl-bdi Deep Q Learning in JadeX agents
-Integration of Reinforcement Learning into the bdi architecture
+# RL-BDI Deep Q Learning in JadeX agents
+Integration of Reinforcement Learning into the BDI architecture
 
 This is the repo for our project integrating DRL into the cognitive bdi agent architecture.
 We use Jadex for the cognitve agent architecture and consider trip requests from a bike sharing company. 
