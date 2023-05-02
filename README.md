@@ -1,14 +1,6 @@
-# RL-BDI Deep Q-Learning DQN in JadeX Software-Agents
-## Integration of Deep Reinforcement Learning into the BDI architecture
+# RL-BDI: Integration of Deep Reinforcement Learning into the BDI-Agent architecture
+This is the implementation of the BDI-DRL architecture proposed in the paper: "TBA" published in "TBA. In this project, the integration of DRL into the cognitive BDI Agent architecture is considered as an hybrid approach to combine symbolic AI and Deep Neural Networks, known s Neuro-Symbolic AI. We integrate Q-Learning (QL) and Deep Q-Learning (DQN) into cognitive BDi Software-Agents implemented in the Jadex Agent Development Framework. Furthermore, we consider Autonomous Ride Hailing as an application scenario, using MATSim as a simulation environment and trip requests from a bike sharing company. In our experiments, we compare the RL-BDI approach with an informed utility based approach evaluating critical domain specific qualitiy measures.
 
-This is the implementation of the BDI-DRL architecture proposed in the paper: "TBA" published in "TBA.
-
-In this project, the integration of DRL into the cognitive BDI Agent architecture is considered as an hybrid approach to combine symbolic AI and Deep Neural Networks, known s Neuro-Symbolic AI. 
-
-
-We use Jadex for the cognitve agent architecture and consider trip requests from a bike sharing company. 
-We compare the learning integration approach with the informed utility based approach. 
-Our results are shown into the following quality measures. Furthermore, 
 
 JadeX - How to Start
 
