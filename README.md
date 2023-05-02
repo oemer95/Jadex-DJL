@@ -1,8 +1,13 @@
 # RL-BDI: Integration of Deep Reinforcement Learning into the BDI-Agent architecture
-This is the implementation of the BDI-DRL architecture proposed in the paper: "TBA" published in "TBA. In this project, the integration of DRL into the cognitive BDI Agent architecture is considered as an hybrid approach to combine symbolic AI and Deep Neural Networks, known s Neuro-Symbolic AI. We integrate Q-Learning (QL) and Deep Q-Learning (DQN) into cognitive BDi Software-Agents implemented in the Jadex Agent Development Framework. Furthermore, we consider Autonomous Ride Hailing as an application scenario, using MATSim as a simulation environment and trip requests from a bike sharing company. In our experiments, we compare the RL-BDI approach with an informed utility based approach evaluating critical domain specific qualitiy measures.
+This is the implementation of the BDI-DRL architecture proposed in the paper: "TBA" published in "TBA. In this project, the integration of DRL into the cognitive BDI Agent architecture is considered as an hybrid approach to combine symbolic AI and Deep Neural Networks, known s Neuro-Symbolic AI. We integrate Q-Learning (QL) and Deep Q-Learning (DQN) into cognitive BDI Software-Agents implemented in the Jadex Agent Development Framework. Furthermore, we consider Autonomous Ride Hailing as an application scenario, using MATSim as a simulation environment and trip requests from a bike sharing company. In our experiments, we compare the RL-BDI approach with an informed utility based approach evaluating critical domain specific qualitiy measures.
 
 
-JadeX - How to Start
+## How to run
+
+The following steps are required to start the BDI-RL architecture.
+
+
+
 
 - `src/`: source folder 
   - `Agent0.java`: Area agent distributing trip reguests to vehicle agents;
@@ -12,7 +17,7 @@ JadeX - How to Start
 
 ![BDI architecture](TrikeAgent_abstract.pdf)
 
-# How to run
+
 
 1. Add the `jade.jar` into 
 2.  in the *run configuration*
@@ -29,32 +34,13 @@ The data samples were created by modifying the "Call A Bike" data sets from Deut
 https://data.deutschebahn.com/dataset/data-call-a-bike.html 
 
 
-#Running DRL and RL 
+# Running DRL and RL 
 
 There are two configurations for the learning process, Q-Leearning as an RL method and Deep-Q-Learning as a DRL method. 
 To configure different running scenarios, use the corresponding run.py file and add it to the Jadex platform.
 
 
 
-To cite this work, please refer to the corresponding Paper on arxiv. 
-Arxiv Link:
+To cite this work, please refer to the corresponding Paper in the Introduction.
 
-Versions of the work are listed below: 
-
-Preprint version available: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# License
