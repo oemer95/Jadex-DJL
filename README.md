@@ -1,5 +1,5 @@
 # RL-BDI Deep Q-Learning DQN in JadeX Software-Agents
-##Integration of Deep Reinforcement Learning into the BDI architecture
+## Integration of Deep Reinforcement Learning into the BDI architecture
 
 This is the implementation of the BDI-DRL architecture proposed in the paper: "TBA" published in "TBA.
 
