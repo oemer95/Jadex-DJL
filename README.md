@@ -1,3 +1,15 @@
+# Jadex-DJL
+An environment of Jadex (Agent Development Platform) and MATSim (Traffic Simulation) with a Deep Reinforcement Learning scenario considering Multiple Software-Agents.
+
+
+## Introduction 
+
+This project aims to integrate Deep RL algorithms into Jadex BDI agents applying them in a Mobility on Demand environment using MATSim traffic simulation as an environment. Therefore, we first extended 
+
+### Installation
+
+### License
+
 # RL-BDI: Integration of Deep Reinforcement Learning into the BDI-Agent architecture
 This is the implementation of the BDI-DRL architecture proposed in the paper: "TBA" published in "TBA. In this project, the integration of DRL into the cognitive BDI Agent architecture is considered as an hybrid approach to combine symbolic AI and Deep Neural Networks, known s Neuro-Symbolic AI. We integrate Q-Learning (QL) and Deep Q-Learning (DQN) into cognitive BDI Software-Agents implemented in the Jadex Agent Development Framework. Furthermore, we consider Autonomous Ride Hailing as an application scenario, using MATSim as a simulation environment and trip requests from a bike sharing company. In our experiments, we compare the RL-BDI approach with an informed utility based approach evaluating critical domain specific qualitiy measures.
 
