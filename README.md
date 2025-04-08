@@ -27,7 +27,6 @@ The following steps are required to start the BDI-RL architecture:
 ![BDI architecture](TrikeAgent_abstract.pdf)
 
 
-
 1. Add the `jade.jar` into 
 2.  in the *run configuration*
 
