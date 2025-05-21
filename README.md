@@ -4,14 +4,14 @@ An environment of Jadex (Agent Development Platform) and MATSim (Traffic Simulat
 
 ## Introduction 
 
-This project aims to integrate Deep RL algorithms into Jadex BDI agents applying them in a Mobility on Demand environment using MATSim traffic simulation as an environment. Therefore, we first extended 
+This project aims to integrate Deep RL algorithms into Jadex BDI agents applying them in a Mobility on Demand environment using MATSim traffic simulation as an environment.
 
 ### Installation
 
 ### License
 
 # Jadex-DJL: Integration of Deep Reinforcement Learning into the Jadex BDI Agent architecture
-This is the implementation of the BDI-DRL architecture proposed in the paper: "TBA" published in "TBA. In this project, the integration of DRL into the cognitive Jadex BDI Agent architecture is considered as an hybrid approach to combine symbolic AI and Deep Neural Networks, known s Neuro-Symbolic AI. We integrate Q-Learning (QL) and Deep Q-Learning (DQN) into cognitive BDI software agents implemented in the Jadex Agent Development Framework. Furthermore, we consider Autonomous Ride-Hailing as an application scenario, using MATSim as a simulation environment and trip requests from a bike-sharing company. In our experiments, we compare the RL-BDI approach with an informed utility-based approach evaluating critical domain-specific quality measures.
+This is the implementation of the BDI-DRL architecture proposed in the paper: Erduran,Ö.I., "Deep Reinforcement Learning for Software Agents in Mobility on Demand" published in "LWDA 2024". In this project, the integration of DRL into the cognitive Jadex BDI Agent architecture is considered as an hybrid approach to combine symbolic AI and Deep Neural Networks, known s Neuro-Symbolic AI. We integrate Q-Learning (QL) and Deep Q-Learning (DQN) into cognitive BDI software agents implemented in the Jadex Agent Development Framework. Furthermore, we consider Autonomous Ride-Hailing as an application scenario, using MATSim as a simulation environment and trip requests from a bike-sharing company. In our experiments, we compare the RL-BDI approach with an informed utility-based approach evaluating critical domain-specific quality measures.
 
 ## How to run
 
